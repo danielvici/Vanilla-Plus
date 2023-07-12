@@ -3,18 +3,21 @@ A mod package that improves vanilla Minecraft in performance and features
 
 Current Version: 1.0.0
 
-Supported versions: 1.20 
+Supported versions: 1.20.X
 
 ### Mods:
 
+- Architectury API
+- Cloth Config API
 - Fabric API
 - Fabric Language Kotlin
 - Indium
 - Iris Shaders
 - Lithium
 - Mod Menu
+- Roughly Enough Items (REI)
 - Sodium
-- Xaero's Minimap (Fair Play)
+- Xaero's Minimap (Fair-Play)
 - Xaero's Worldmap
 - YetAnotherConfigLib
 - Zoomify
@@ -27,6 +30,15 @@ Supported versions: 1.20
 
 ### Shader:
 - Complementary Reimagined
+
+### Changes:
+Things that have been changed
+
+- Zoomify:
+    - The zoom button has been set to **Z**
+      
+- Xaeros's Minimap:
+    - The button for enlarging the minimap has been changed to **C**
 
 ## Info:
 This modpack is not finished yet and new mods/ressourcepacks/shaders will be added. If you have any problems please report them to us under "Issues" and for mod suggestions under "Pull Requests". If you don't want your mod to be part of the modpack then contact us here: contact_glxy@proton.me. If you have other concerns do not hesitate to contact us.
