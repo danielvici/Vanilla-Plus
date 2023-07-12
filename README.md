@@ -29,4 +29,4 @@ Supported versions: 1.20
 - Complementary Reimagined
 
 ## Info:
-This modpack is not finished yet and new mods/ressourcepacks/shaders will be added. If you have any problems please report them to us on GitHub under "Issues" and for mod suggestions under "Pull Requests". If you don't want your mod to be part of the modpack then contact us here: contact_glxy@proton.me. If you have other concerns do not hesitate to contact us
+This modpack is not finished yet and new mods/ressourcepacks/shaders will be added. If you have any problems please report them to us under "Issues" and for mod suggestions under "Pull Requests". If you don't want your mod to be part of the modpack then contact us here: contact_glxy@proton.me. If you have other concerns do not hesitate to contact us.
