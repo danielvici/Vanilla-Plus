@@ -1,8 +1,13 @@
 # Release 1.0.0 
 
-## Date 12.07.2023
-## Minecraft Version: 1.20.X
-## Pack Version: 1.0.0
+Date: 12.07.2023
+
+Minecraft Version: 1.20.X
+
+Pack Version: 1.0.0
+
+## Description:
+Release
 
 ### Mods:
 
