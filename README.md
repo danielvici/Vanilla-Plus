@@ -24,7 +24,7 @@ Supported versions: 1.20.X
   
 ### Ressource packs:
 
-- Faithful 64x
+- Faithful
 - Default Dark Mode
 - No Pumpkin Blur
 
