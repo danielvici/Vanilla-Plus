@@ -28,7 +28,7 @@ Release
   
 ### Ressource packs:
 
-- Bare and Bones
+- Faithful
 - Default Dark Mode
 - No Pumpkin Blur
 
