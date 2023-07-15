@@ -24,7 +24,7 @@ Supported versions: 1.20.X
   
 ### Ressource packs:
 
-- Bare and Bones
+- Faithful 64x
 - Default Dark Mode
 - No Pumpkin Blur
 
