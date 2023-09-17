@@ -1,14 +1,16 @@
 # Vanilla-Plus
 A mod package that improves vanilla Minecraft in performance and features
 
-Current Version: 1.0.0
+Current Version: 1.1.0
 
 Supported versions: 1.20.X
 
 ### Mods:
 
+- 3D Skin Layer
 - AppleSkin
 - Architectury API
+- Chat Heads
 - Cloth Config API
 - Dynamic Crosshair
 - FabricAPI
@@ -19,6 +21,7 @@ Supported versions: 1.20.X
 - Lithium
 - Mod Menu
 - Roughly Enough Items (REI)
+- Shulker Box Tooltip
 - Sodium
 - Xaero's Minimap (Fair-Play)
 - Xaero's World Map
