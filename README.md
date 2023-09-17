@@ -7,10 +7,13 @@ Supported versions: 1.20.X
 
 ### Mods:
 
+- AppleSkin
 - Architectury API
 - Cloth Config API
-- Fabric API
+- Dynamic Crosshair
+- FabricAPI
 - Fabric Language Kotlin
+- Freelook
 - Indium
 - Iris Shaders
 - Lithium
@@ -18,7 +21,7 @@ Supported versions: 1.20.X
 - Roughly Enough Items (REI)
 - Sodium
 - Xaero's Minimap (Fair-Play)
-- Xaero's Worldmap
+- Xaero's World Map
 - YetAnotherConfigLib
 - Zoomify
   
