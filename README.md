@@ -1,7 +1,7 @@
 # Vanilla-Plus
 A mod package that improves vanilla Minecraft in performance and features
 
-Current Version: 1.1.0
+Current Version: 1.2.0
 
 Supported versions: 1.20.X
 
@@ -12,6 +12,7 @@ Supported versions: 1.20.X
 - Architectury API
 - Chat Heads
 - Cloth Config API
+- ESSENTIAL MOD
 - Dynamic Crosshair
 - FabricAPI
 - Fabric Language Kotlin
