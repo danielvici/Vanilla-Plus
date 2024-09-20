@@ -1,9 +1,9 @@
 # Vanilla-Plus
 A mod package that improves vanilla Minecraft in performance and features
 
-Current Version: 1.2.0
+Current Version: 1.3.0
 
-Supported versions: 1.20.X
+Supported versions: 1.20.X, 1.21.X
 
 ### Mods:
 
