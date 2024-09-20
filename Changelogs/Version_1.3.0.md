@@ -7,7 +7,7 @@ Minecraft Version: 1.21.1
 ModPack Version: 1.3.0
 
 ## Description:
-All mods, resource packages and shader packages are now on the latest version. 
+All mods, resource packages and shader packages are now on the latest version. The modpack now supports version 1.21.X
 
 ### Mods
 
