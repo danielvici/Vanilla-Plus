@@ -48,7 +48,8 @@ Things that have been changed
     - The button for enlarging the minimap has been changed to **C**
 
 ## Info:
-This modpack is not finished yet and new mods/ressourcepacks/shaders will be added. If you have any problems please report them to us under "[Issues](https://github.com/SenorLordy/Vanilla-Plus/issues)" and for mod suggestions under "[Pull Requests](https://github.com/SenorLordy/Vanilla-Plus/pulls)". If you don't want your mod to be part of the modpack then contact us here: contact_glxy@proton.me. If you have other concerns do not hesitate to contact us.
+This modpack is not finished yet and new mods/ressourcepacks/shaders will be added.
+If you have any problems or mod suggestions, please report them to us on GitHub at [“Issues”](https://github.com/danielvici/Vanilla-Plus/issues). If you don't want your mod to be part of the modpack then contact us here: **contact_glxy@proton.me**. If you have other concerns do not hesitate to contact us.
 
 ## Disclaimer:
 
