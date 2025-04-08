@@ -49,7 +49,7 @@ Things that have been changed
 
 ## Info:
 This modpack is not finished yet and new mods/ressourcepacks/shaders will be added.
-If you have any problems or mod suggestions, please report them to us on GitHub at [“Issues”](https://github.com/danielvici/Vanilla-Plus/issues). If you don't want your mod to be part of the modpack then contact us here: **contact_glxy@proton.me**. If you have other concerns do not hesitate to contact us.
+If you have any problems or mod suggestions, please report them to us on GitHub at [“Issues”](https://github.com/danielvici/Vanilla-Plus/issues). If you don't want your mod to be part of the modpack then contact us here: **danielvici123@proton.me**. If you have other concerns do not hesitate to contact us.
 
 ## Disclaimer:
 
